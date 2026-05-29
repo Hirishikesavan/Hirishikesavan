@@ -1,4 +1,4 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hirishi%20Kesavan%20A%20D&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=🚀%20Full-Stack%20Developer%20%7C%20Java%20·%20Python%20·%20React%20%7C%20Building%20Web%20Solutions&descAlignY=62&descSize=15" width="100%"/>
 
 <div align="center">
@@ -195,15 +195,7 @@ public class HirishiKesavan {
 
 ---
 
-## 🎓 Education
 
-<div align="center">
-
-| 📜 Degree | 🏫 Institution | 📅 Year | 🏆 CGPA |
-|:---|:---|:---:|:---:|
-| B.Tech — Information Technology | *(Your College Name)* | 2021 – 2025 | *(Your CGPA)* |
-
-</div>
 
 ---
 
@@ -228,10 +220,8 @@ public class HirishiKesavan {
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-⭐ **Star a repo if you find it useful!** &nbsp;·&nbsp; 🤝 **Open to collaborations & opportunities**
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
-ENDOFFILE
-echo "Done"
+
