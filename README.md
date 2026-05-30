@@ -12,8 +12,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HirishiKesavan&label=👁%20Profile+Views&color=70a5fd&style=for-the-badge)](https://github.com/HirishiKesavan)
 [![GitHub followers](https://img.shields.io/github/followers/HirishiKesavan?label=Followers&style=for-the-badge&color=bf91f3&logo=github)](https://github.com/HirishiKesavan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirishi-kesavan)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirishikesavan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirishi-kesavan-81b42a258/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirishi2020@gmail.com)
 
 </div>
 
@@ -28,16 +28,16 @@
 ```java
 /**
  *  ╔══════════════════════════════════════╗
- *  ║   Developer Profile — Hirishi K.    ║
+ *  ║   Developer Profile — Hirishi Kesavan║
  *  ╚══════════════════════════════════════╝
- *  @role    Full-Stack Developer & ML Enthusiast
+ *  @role    Full-Stack Developer , ML Enthusiast & Freelance 
  *  @status  🟢 Open to Opportunities
  */
 public class HirishiKesavan {
 
     final String   name     = "Hirishi Kesavan A D";
     final String   location = "India 🇮🇳";
-    final String   degree   = "B.Tech IT  |  2025";
+    final String   degree   = "B.Tech IT  |  2026";
 
     final String[] stack    = {
         "Java", "Python", "JavaScript", "SQL",
@@ -143,7 +143,7 @@ public class HirishiKesavan {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏗️ &nbsp; Full-Stack Developer &nbsp;|&nbsp; Academic & Freelance &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; India 🇮🇳</b></summary>
+<summary><b>🏗️ &nbsp; Full-Stack Developer &nbsp;|&nbsp; Academic & Freelance &nbsp;</b></summary>
 
 <br/>
 
@@ -189,7 +189,6 @@ Stack   ──►  Angular · .NET Core · Spring Boot · Python · MySQL · RES
 
 | 🎖️ | Achievement | Details |
 |:---:|:---|:---|
-| 🎓 | **B.Tech Final Year — Information Technology** | Graduating 2025 · CGPA: *(add yours)* |
 | 🧠 | **End-to-End ML System — LSTM Forecasting** | Stock price prediction with live Streamlit UI & API integration |
 | 🔐 | **Enterprise App — Digital Signatures + RBAC** | Competency Certificate Generator for organizational workflows |
 | 🌐 | **Multi-Framework Mastery** | Production experience: Angular · React.js · Spring Boot · .NET Core |
@@ -200,15 +199,7 @@ Stack   ──►  Angular · .NET Core · Spring Boot · Python · MySQL · RES
 
 ---
 
-## 🎓 Education
 
-<div align="center">
-
-| 📜 Degree | 🏫 Institution | 📅 Year | 🏆 CGPA |
-|:---|:---|:---:|:---:|
-| B.Tech — Information Technology | *(Your College Name Here)* | 2021 – 2025 | *(Your Score)* |
-
-</div>
 
 ---
 
