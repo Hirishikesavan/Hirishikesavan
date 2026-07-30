@@ -30,7 +30,7 @@
  *  ╔══════════════════════════════════════╗
  *  ║   Developer Profile — Hirishi Kesavan║
  *  ╚══════════════════════════════════════╝
- *  @role    Full-Stack Developer , ML Enthusiast & Freelance 
+ *  @role    Full-Stack Developer ,CyberSecurity, AI & Freelance 
  *  @status  🟢 Open to Opportunities
  */
 public class HirishiKesavan {
@@ -42,7 +42,7 @@ public class HirishiKesavan {
     final String[] stack    = {
         "Java", "Python", "JavaScript", "SQL",
         "React.js", "Angular", "Spring Boot",
-        ".NET Core", "MySQL", "REST APIs"
+        ".NET Core", "MySQL", "REST APIs" ,"Wazuh SIEM"
     };
 
     final String[] learning = {
