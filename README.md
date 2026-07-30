@@ -30,33 +30,50 @@
  *  ╔══════════════════════════════════════╗
  *  ║   Developer Profile — Hirishi Kesavan║
  *  ╚══════════════════════════════════════╝
- *  @role    Full-Stack Developer ,CyberSecurity, AI & Freelance 
+ *  @role    Full-Stack Developer | Cybersecurity Engineer | AI & ML Developer
  *  @status  🟢 Open to Opportunities
  */
 public class HirishiKesavan {
 
     final String   name     = "Hirishi Kesavan A D";
     final String   location = "India 🇮🇳";
-    final String   degree   = "B.Tech IT  |  2026";
+    final String   degree   = "B.Tech Information Technology Graduate";
 
-    final String[] stack    = {
-        "Java", "Python", "JavaScript", "SQL",
-        "React.js", "Angular", "Spring Boot",
-        ".NET Core", "MySQL", "REST APIs" ,"Wazuh SIEM"
+    final String[] stack = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL",
+        "React.js",
+        "Angular",
+        "Spring Boot",
+        ".NET Core",
+        "MySQL",
+        "REST APIs",
+        "Wazuh SIEM",
+        "Microsoft Intune",
+        "Docker"
     };
 
     final String[] learning = {
         "🧱 Advanced Spring Boot + Microservices",
         "🤖 Deep Learning — LSTM & TensorFlow",
-        "⚛️  Next.js & Full-Stack Architecture",
-        "☁️  Cloud — Railway, Vercel, CI/CD"
+        "⚛️ Next.js & Full-Stack Architecture",
+        "☁️ Cloud — Railway, Vercel, CI/CD",
+        "🔐 Wazuh SIEM & SOAR Automation",
+        "🛡️ Threat Detection & Incident Response",
+        "🐳 Docker",
+        "🤖 AI for Cybersecurity"
     };
 
-    boolean  openToWork  = true;
-    String   funFact     = "I predicted stock prices with LSTM 📈"
-                         + " before landing my first role!";
+    boolean openToWork = true;
 
-    String   motto()     { return "Write code humans can read."; }
+    String funFact =
+        "I build enterprise full-stack applications and AI-powered cybersecurity solutions.";
+
+    String motto() {
+        return "Write code humans can read.";
+    }
 }
 ```
 
